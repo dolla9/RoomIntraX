@@ -2,6 +2,8 @@
 
 dataset/
 
+dataset-reserve/
+
 original/
 
 detected/
@@ -11,3 +13,7 @@ image\.jpg
 imagenew\.jpg
 
 resnet50_coco_best_v2\.0\.1\.h5
+
+yolo-tiny\.h5
+
+yolo\.h5
